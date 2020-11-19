@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605800274 source:c:\users\jeter\desktop\c project\positiveornegative\main.c
+	<stdio.h>
+	<stdlib.h>
+
